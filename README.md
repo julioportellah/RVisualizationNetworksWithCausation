@@ -61,4 +61,8 @@ result <- IsingWithCausation(Data, c(6), layout = 'spring', gamma = 0)
 result$weiadj
 result$q
 ```
+In the network all the vertex interacting with the "6" will show their links directions. The interaction between the rest of the vertex is shown as undirectional
+
+![image](https://user-images.githubusercontent.com/2396435/112576311-6ad12880-8dc8-11eb-9697-ed66f25326c5.png)
+
 
